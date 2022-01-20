@@ -17,7 +17,7 @@ Regex Testing in Delphi
   Libraries used
 
   RegExBuddy  | https://www.regexbuddy.com/delphi.html  | https://www.regular-expressions.info/download/TPerlRegEx.zip
-  ^-- I had to rename/edit unit name files to PCRE.pas to regexbuddypcre.pas because conflicted with another PCRE.pas
+  <-- I had to rename/edit unit name files to PCRE.pas to regexbuddypcre.pas because conflicted with another PCRE.pas
 
   TRegExpr  | https://github.com/andgineer/TRegExpr
 
@@ -25,7 +25,7 @@ Regex Testing in Delphi
 
   .NET TRegEx | http://bilsen.com/regularexpressions/index.shtml?fbclid=IwAR3BtNohPoUrRh-RXPn7WWaU2znED-gSWCQU_ezQjuAXRcZWyuIdz_IF1_c
   | http://bilsen.com/regularexpressions/RegularExpressions1.1.zip
-  ^----- I had to rename/edit unit name files for PCRE.pas to dontnetPCRE.pas and RegularExpressions.pas to dontnetRegularExpressions.pas
+  <-- I had to rename/edit unit name files for PCRE.pas to dontnetPCRE.pas and RegularExpressions.pas to dontnetRegularExpressions.pas
   As these file names conflicted with others.
 
   TRegEx | Built into Delphi
